@@ -1,0 +1,10 @@
+{
+	"channel": "#vinyl",
+	"build": {
+		"branches": {
+			"*": {
+				"failure": true
+			}
+		}
+	}
+}
